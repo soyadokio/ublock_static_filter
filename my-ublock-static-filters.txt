@@ -1,0 +1,128 @@
+! 2023-02-01 https://www.baidu.com
+www.baidu.com###\36  > div
+www.baidu.com###content_right
+
+! 2023-02-07 https://www.baidu.com
+www.baidu.com##.s-hotsearch-wrapper.s-isindex-wrap
+
+! 2023-02-07 https://blog.csdn.net
+blog.csdn.net##.common-nps-box.aside-box
+blog.csdn.net###asideArchive
+blog.csdn.net###asideNewComments
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.recommend-box.second-recommend-box
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.common-nps-box.recommend-nps-box
+blog.csdn.net##.template-box
+blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
+
+! 2023-02-07 http://www.360doc.com
+www.360doc.com##.wxart_qr.floatqrcode
+www.360doc.com###floatqrcode_1
+www.360doc.com###recommendArtOrg
+||pubimage.360doc.com/NewArticle/wz2020.png$image
+www.360doc.com##.fxbtn_app
+www.360doc.com###goTop1
+www.360doc.com##.fxbtn_service
+www.360doc.com##div.mod__:nth-of-type(4)
+www.360doc.com###divyoulikeadtitle
+www.360doc.com###recommendArt
+www.360doc.com###recommendArtHot
+www.360doc.com##div:nth-of-type(16)
+www.360doc.com###divad5 > div
+www.360doc.com##.bevip__
+
+! 2023-02-07 https://www.jianshu.com
+www.jianshu.com##section._3Z3nHf:nth-of-type(2)
+www.jianshu.com##section._3Z3nHf:nth-of-type(3)
+www.jianshu.com##._13lIbp
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+www.jianshu.com##._3Pnjry
+www.jianshu.com##footer
+
+! 2023-02-08 https://wenku.baidu.com
+wenku.baidu.com##.new-privilege-wrap.vip-privilege-card-wrap.vip-privilege
+||edu-wenku.bdimg.com/v1/pc/protocols/shop-upload-bg-1660891593408.png$image
+wenku.baidu.com##.shop-joinus-wrap
+wenku.baidu.com##.p-c-footer-contact-us_3909c
+wenku.baidu.com###app-right
+wenku.baidu.com##.vip-activity-content
+wenku.baidu.com##.multi-size.size-large.theme-1.pc-cashier-card
+
+! 2023-02-13 https://haokan.baidu.com
+haokan.baidu.com##.page-bottom-guesslike
+haokan.baidu.com##.landrightbanner
+
+! 2023-02-13 https://www.sohu.com
+www.sohu.com###right-side-bar
+www.sohu.com##.clear.article-allsee
+www.sohu.com##.groom-read
+www.sohu.com##.float-links
+
+! 2023-02-13 http://news.sohu.com
+news.sohu.com##.right-rec
+
+! 2023-02-13 https://haokan.baidu.com
+haokan.baidu.com##.page-bottom > .page-right
+haokan.baidu.com##.page-top > .page-right
+haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
+haokan.baidu.com##.page-search-input
+
+! 2023-02-13 https://baijiahao.baidu.com
+baijiahao.baidu.com##._2v051 > div
+baijiahao.baidu.com##._2LcVE
+
+! 2023-02-13 https://haokan.baidu.com
+haokan.baidu.com##.page-top-rightinfo-popover
+
+! 2023-02-13 https://www.jincai100.com
+www.jincai100.com##.br.card.related
+www.jincai100.com##.theiaStickySidebar
+
+! 2023-02-13 https://cj.sina.com.cn
+cj.sina.com.cn##.article-content-right
+cj.sina.com.cn##.page-right-bar
+cj.sina.com.cn##.hdlink3
+cj.sina.com.cn##.clearfix.blk-related
+
+! 2023-02-13 http://66.taopindi.com
+66.taopindi.com##.sidebar
+66.taopindi.com##.relates
+
+! 2023-02-13 https://new.qq.com
+new.qq.com##.right-bar
+new.qq.com##.through.share-title
+new.qq.com##.share
+new.qq.com###Recomend
+
+! 2023-02-13 https://www.163.com
+www.163.com##.post_side
+www.163.com##.newsapp-qrcode
+www.163.com##.js-tab-mod.post_recommends
+www.163.com##.post_next_to
+www.163.com##.post_next
+www.163.com##.to_reg
+www.163.com##.newsapp-qrcode
+www.163.com###tieArea > .show-all-tie
+
+! 2023-02-13 https://www.chinaxiaokang.com
+www.chinaxiaokang.com##.mr50.clearfix.fr.content_top
+www.chinaxiaokang.com###bdcsFramePicBox
+www.chinaxiaokang.com###bdcsFrame
+www.chinaxiaokang.com##.clearfix.wenben > div > div > span
+www.chinaxiaokang.com##[src="/common/footer_news.html"]
+
+! 2023-02-13 https://www.nbd.com.cn
+www.nbd.com.cn##.g-article-right
+www.nbd.com.cn##.u-return-top
+www.nbd.com.cn##.m-left-buttom
+
+! 2023-02-14 https://download.csdn.net
+download.csdn.net###recommend > .is-never-shadow.el-card > .el-card__body
+download.csdn.net##.active.nav
+download.csdn.net##.fixed.nav-bottom-wrap
+download.csdn.net##.mt-10.vip-equity-box
+download.csdn.net##div.mt-10:nth-of-type(2)
+download.csdn.net##.sticky-content
+download.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn
+
