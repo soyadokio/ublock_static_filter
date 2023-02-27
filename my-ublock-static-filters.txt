@@ -1,40 +1,11 @@
-! 2023-02-01 https://www.baidu.com
-www.baidu.com##.s-isindex-wrap.s-bottom-layer
-www.baidu.com###s_side_wrapper
-www.baidu.com###s_wrap
-www.baidu.com##.result_hidden
-www.baidu.com###\36  > div
-www.baidu.com##.s-hotsearch-wrapper.s-isindex-wrap
-www.baidu.com###content_right
-www.baidu.com###wrapper > .new-pmd.result-molecule
-www.baidu.com##.under-searchbox-tips.s-isindex-wrap
-www.baidu.com##.under-searchbox-tips
-
-! 2022-12-06 https://cn.bing.com
-cn.bing.com##.b_footer
-cn.bing.com###bnp\.nid\.63507
-
-! 2022-12-13 https://juejin.cn
-juejin.cn##.recommend-box
-juejin.cn##[href^="/user/center/signin"]
-juejin.cn##.shadow.recommended-area.main-area
-juejin.cn##.extension-banner
-juejin.cn##.main-area.recommended-links
-juejin.cn##.pure.wechat-sidebar-block.sidebar-block
-juejin.cn##li.link-item.nav-item:nth-of-type(7)
-juejin.cn##.isResourceVisible.download-icon.link-item.nav-item > .tablead
-juejin.cn##[href="/challenge"] > .tablead
-juejin.cn##.book.link-item.nav-item > [href] > .tablead
-
 ! 2023-02-07 https://blog.csdn.net
-blog.csdn.net##.common-nps-box.recommend-nps-box
-blog.csdn.net###treeSkill
 blog.csdn.net##.common-nps-box.aside-box
 blog.csdn.net###asideArchive
 blog.csdn.net###asideNewComments
 blog.csdn.net##.recommend-box.first-recommend-box
 blog.csdn.net##.recommend-box.second-recommend-box
 blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.template-box
 blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 
@@ -62,6 +33,13 @@ www.jianshu.com##section.ouvJEz:nth-of-type(2)
 www.jianshu.com##._3Pnjry
 www.jianshu.com##footer
 
+! 2023-02-20 https://www.baidu.com
+www.baidu.com###\36  > div
+www.baidu.com###content_right
+www.baidu.com##.s-hotsearch-wrapper.s-isindex-wrap
+www.baidu.com###s_wrap
+www.baidu.com##.s-isindex-wrap.s-bottom-layer
+
 ! 2023-02-08 https://wenku.baidu.com
 wenku.baidu.com##.new-privilege-wrap.vip-privilege-card-wrap.vip-privilege
 ||edu-wenku.bdimg.com/v1/pc/protocols/shop-upload-bg-1660891593408.png$image
@@ -74,6 +52,15 @@ wenku.baidu.com##.multi-size.size-large.theme-1.pc-cashier-card
 ! 2023-02-13 https://haokan.baidu.com
 haokan.baidu.com##.page-bottom-guesslike
 haokan.baidu.com##.landrightbanner
+haokan.baidu.com##.page-bottom > .page-right
+haokan.baidu.com##.page-top > .page-right
+haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
+haokan.baidu.com##.page-search-input
+haokan.baidu.com##.page-top-rightinfo-popover
+
+! 2023-02-13 https://baijiahao.baidu.com
+baijiahao.baidu.com##._2v051 > div
+baijiahao.baidu.com##._2LcVE
 
 ! 2023-02-13 https://www.sohu.com
 www.sohu.com###right-side-bar
@@ -83,19 +70,6 @@ www.sohu.com##.float-links
 
 ! 2023-02-13 http://news.sohu.com
 news.sohu.com##.right-rec
-
-! 2023-02-13 https://haokan.baidu.com
-haokan.baidu.com##.page-bottom > .page-right
-haokan.baidu.com##.page-top > .page-right
-haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
-haokan.baidu.com##.page-search-input
-
-! 2023-02-13 https://baijiahao.baidu.com
-baijiahao.baidu.com##._2v051 > div
-baijiahao.baidu.com##._2LcVE
-
-! 2023-02-13 https://haokan.baidu.com
-haokan.baidu.com##.page-top-rightinfo-popover
 
 ! 2023-02-13 https://www.jincai100.com
 www.jincai100.com##.br.card.related
@@ -162,7 +136,6 @@ blog.csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-bt
 blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-collect.toolbar-btn
 blog.csdn.net##.blog-footer-bottom
 blog.csdn.net##.user-spm-list
-blog.csdn.net##.template-box
 
 ! 2023-02-15 https://im.csdn.net
 im.csdn.net##.csdn-toolbar-fl.toolbar-menus
@@ -175,16 +148,3 @@ im.csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn
 
 ! 2023-02-15 https://blog.51cto.com
 blog.51cto.com##.Header
-
-! 2023-02-04 https://www.leixue.com
-www.leixue.com##.sidebar
-www.leixue.com##div.f-box:nth-of-type(3)
-www.leixue.com##.share
-
-! 2023-02-16 https://www.speedtest.cn
-www.speedtest.cn##.sign-icon
-www.speedtest.cn##.navbar-nav-speedtest.ml-auto.navbar-nav
-www.speedtest.cn##.navbar-collapse.collapse
-www.speedtest.cn##.app-download-wrap
-www.speedtest.cn##.sus-window
-www.speedtest.cn##.network-module
